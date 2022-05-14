@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "dishName": "SALAD",
+        "dishMeal": "Lunch",
+        "mealTime": "Lunch1",
+        "imageName": "salad"
+    },
+    {
+        "id": "2",
+        "dishName": "SMOOTHIE",
+        "dishMeal": "Lunch",
+        "mealTime": "Lunch2",
+        "imageName": "smoothie"
+    },
+    {
+        "id": "3",
+        "dishName": "PIZZA",
+        "dishMeal": "Lunch",
+        "mealTime": "Lunch3",
+        "imageName": "pizza"
+    },
+    {
+        "id": "4",
+        "dishName": "SUSHI",
+        "dishMeal": "Dinner",
+        "mealTime": "Dinner",
+        "imageName": "sushi"
+    },
+    {
+        "id": "5",
+        "dishName": "PANCAKES",
+        "dishMeal": "Breakfast",
+        "mealTime": "Breakfast",
+        "imageName": "pancakes"
+    }
+]

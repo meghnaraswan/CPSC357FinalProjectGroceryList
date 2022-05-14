@@ -1,0 +1,254 @@
+[
+    {
+        "id": "1",
+        "itemName": "apple",
+        "dish": "SALAD",
+        "imageName": "apple"
+    },
+    {
+        "id": "2",
+        "itemName": "avocado",
+        "dish": "SUSHI",
+        "imageName": "avocado"
+    },
+    {
+        "id": "3",
+        "itemName": "baguette",
+        "dish": "NONE",
+        "imageName": "baguette"
+    },
+    {
+        "id": "4",
+        "itemName": "blueberries",
+        "dish": "SMOOTHIE",
+        "imageName": "blueberries"
+    },
+    {
+        "id": "5",
+        "itemName": "bread",
+        "dish": "PIZZA",
+        "imageName": "bread"
+    },
+    {
+        "id": "6",
+        "itemName": "broccoli",
+        "dish": "NONE",
+        "imageName": "broccoli"
+    },
+    {
+        "id": "7",
+        "itemName": "cabbage",
+        "dish": "PIZZA",
+        "imageName": "cabbage"
+    },
+    {
+        "id": "8",
+        "itemName": "carrot",
+        "dish": "SUSHI",
+        "imageName": "carrot"
+    },
+    {
+        "id": "9",
+        "itemName": "cheese",
+        "dish": "PIZZA",
+        "imageName": "cheese"
+    },
+    {
+        "id": "10",
+        "itemName": "cherries",
+        "dish": "SMOOTHIE",
+        "imageName": "cherries"
+    },
+    {
+        "id": "11",
+        "itemName": "chili",
+        "dish": "PIZZA",
+        "imageName": "chili"
+    },
+    {
+        "id": "12",
+        "itemName": "chives",
+        "dish": "NONE",
+        "imageName": "chives"
+    },
+    {
+        "id": "13",
+        "itemName": "chocolate",
+        "dish": "NONE",
+        "imageName": "chocolate"
+    },
+    {
+        "id": "14",
+        "itemName": "croissant",
+        "dish": "NONE",
+        "imageName": "croissant"
+    },
+    {
+        "id": "15",
+        "itemName": "cucumber",
+        "dish": "SUSHI",
+        "imageName": "cucumber"
+    },
+    {
+        "id": "16",
+        "itemName": "egg",
+        "dish": "NONE",
+        "imageName": "egg"
+    },
+    {
+        "id": "17",
+        "itemName": "fig",
+        "dish": "NONE",
+        "imageName": "fig"
+    },
+    {
+        "id": "18",
+        "itemName": "fish",
+        "dish": "SUSHI",
+        "imageName": "fish"
+    },
+    {
+        "id": "19",
+        "itemName": "flour",
+        "dish": "PIZZA",
+        "imageName": "flour"
+    },
+    {
+        "id": "20",
+        "itemName": "garlic",
+        "dish": "PIZZA",
+        "imageName": "garlic"
+    },
+    {
+        "id": "21",
+        "itemName": "grapes",
+        "dish": "SALAD",
+        "imageName": "grapes"
+    },
+    {
+        "id": "22",
+        "itemName": "ice cream (one scoop)",
+        "dish": "NONE",
+        "imageName": "ice-cream-one-scoop"
+    },
+    {
+        "id": "23",
+        "itemName": "ice cream (three scoops)",
+        "dish": "NONE",
+        "imageName": "ice-cream"
+    },
+    {
+        "id": "24",
+        "itemName": "lettuce",
+        "dish": "SALAD",
+        "imageName": "lettuce"
+    },
+    {
+        "id": "25",
+        "itemName": "meat",
+        "dish": "PIZZA",
+        "imageName": "meat"
+    },
+    {
+        "id": "26",
+        "itemName": "milk",
+        "dish": "PANCAKES",
+        "imageName": "milk"
+    },
+    {
+        "id": "27",
+        "itemName": "noodles",
+        "dish": "NONE",
+        "imageName": "noodles"
+    },
+    {
+        "id": "28",
+        "itemName": "onion",
+        "dish": "PIZZA",
+        "imageName": "onion"
+    },
+    {
+        "id": "29",
+        "itemName": "orange",
+        "dish": "SALAD",
+        "imageName": "orange"
+    },
+    {
+        "id": "30",
+        "itemName": "pear",
+        "dish": "SALAD",
+        "imageName": "pear"
+    },
+    {
+        "id": "31",
+        "itemName": "pineapple",
+        "dish": "SALAD",
+        "imageName": "pineapple"
+    },
+    {
+        "id": "32",
+        "itemName": "potatoes",
+        "dish": "NONE",
+        "imageName": "potatoes"
+    },
+    {
+        "id": "33",
+        "itemName": "raspberry",
+        "dish": "SMOOTHIE",
+        "imageName": "raspberry"
+    },
+    {
+        "id": "34",
+        "itemName": "red-onion",
+        "dish": "PIZZA",
+        "imageName": "red-onion"
+    },
+    {
+        "id": "35",
+        "itemName": "shrimp",
+        "dish": "SUSHI",
+        "imageName": "shrimp"
+    },
+    {
+        "id": "36",
+        "itemName": "strawberry",
+        "dish": "SMOOTHIE",
+        "imageName": "strawberry"
+    },
+    {
+        "id": "37",
+        "itemName": "tomato",
+        "dish": "PIZZA",
+        "imageName": "tomato"
+    },
+    {
+        "id": "38",
+        "itemName": "watermelon",
+        "dish": "NONE",
+        "imageName": "watermelon"
+    },
+    {
+        "id": "39",
+        "itemName": "batter",
+        "dish": "PANCAKES",
+        "imageName": "batter"
+    },
+    {
+        "id": "40",
+        "itemName": "nutella",
+        "dish": "PANCAKES",
+        "imageName": "nutella"
+    },
+    {
+        "id": "41",
+        "itemName": "jam",
+        "dish": "PANCAKES",
+        "imageName": "jam"
+    },
+    {
+        "id": "42",
+        "itemName": "syrup and honey",
+        "dish": "PANCAKES",
+        "imageName": "syrup-and-honey"
+    }
+]
